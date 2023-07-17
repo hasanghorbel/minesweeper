@@ -1,5 +1,5 @@
 # Minesweeper
-## google minesweeper game clone
+## Google's minesweeper game clone
 ### Install pygame with command:
 ```
 pip install pygame
