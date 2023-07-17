@@ -1,14 +1,14 @@
 # Minesweeper
-google minesweeper game clone
-#### Install pygame with command:
+## google minesweeper game clone
+### Install pygame with command:
 ```
 pip install pygame
 ```
-#### Install numpy with command:
+### Install numpy with command:
 ```
 pip install numpy
 ```
-#### Then run command
+### Then run command
 ```
 python main.py
 ```
